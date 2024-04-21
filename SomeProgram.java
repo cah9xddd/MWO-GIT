@@ -3,4 +3,8 @@ public class SomeProgram {
         System.out.println("WearelearningtouseGit.");
         System.out.println("WewillbeGitexperts,soon.");
     }
+
+    public void manageTheSatellite() {
+        // TODOimplement
+    }
 }
